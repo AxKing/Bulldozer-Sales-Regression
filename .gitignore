@@ -1,0 +1,17 @@
+# Ignore compiled binaries
+*.exe
+*.o
+
+# Ignore dependency directories
+env/
+venv/
+data/
+
+# Ignore log files
+*.log
+*.qm
+*.csv
+*.DS_Store
+
+# Ignore checkpoints
+.ipynb*
